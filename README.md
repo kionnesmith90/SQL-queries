@@ -31,5 +31,8 @@ Perform SQL queries to retrieve data.
 ![image](https://github.com/user-attachments/assets/d587e12e-27e6-496e-98cd-c6e39770165c)
 ![image](https://github.com/user-attachments/assets/136222c3-608c-4e68-9aeb-55c01a10efe1)
 
-
+4. Performing a fuzzy match for all employees in the South building where there seems to be an issue with the machines
+ 
+![image](https://github.com/user-attachments/assets/bd15c51e-b988-4e72-bd9c-cdedb97336e6)
+![image](https://github.com/user-attachments/assets/da98f79d-50ca-40a1-969e-e91b95aa7896)
 
