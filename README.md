@@ -7,7 +7,9 @@ Perform SQL queries to retrieve data.
 
 ### Skills Learned
 
-- 
+- Retrieving and filtering data within tables.
+- Joining multiple tables using Inner, Left and Right Join functions.
+- Using comparison operators to set limits when searching for data.
 
 
 ### Tools Used
