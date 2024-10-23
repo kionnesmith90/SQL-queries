@@ -50,4 +50,10 @@ Perform SQL queries to retrieve data.
 
 ![image](https://github.com/user-attachments/assets/dc934969-066c-442b-926d-14838ab53ff5)
 ![image](https://github.com/user-attachments/assets/b2044353-e80f-4b01-8647-df3484fb25f2)
+
+8. Performing a SQL query to join 2 tables to retrieve data based on a specific column
+
+![image](https://github.com/user-attachments/assets/d68129bd-3dfd-48fd-b766-4b6ad9dbc343)
+![image](https://github.com/user-attachments/assets/20107455-ee09-4e9f-af54-adc8a0f3c7d9)
+ 
  
